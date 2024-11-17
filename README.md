@@ -1,6 +1,6 @@
 # Драйвер роста (проектная занятость)
 
-[Дашборд])https://datalens.yandex/kvkel9t992xe7)   [Презентация](https://disk.yandex.ru/i/VdA9QAmHUZWBaQ)
+[Дашборд](https://datalens.yandex/kvkel9t992xe7)   [Презентация](https://disk.yandex.ru/i/VdA9QAmHUZWBaQ)
 --
 
 ## Описание проекта
